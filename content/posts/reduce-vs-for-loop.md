@@ -15,6 +15,7 @@ tags:
   - tag2
 # nolastmod: true
 draft: false
+url: /code/reduce-vs-for-loop
 ---
 
 Cut out summary from your post content here.
